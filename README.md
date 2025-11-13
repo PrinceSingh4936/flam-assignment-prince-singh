@@ -80,6 +80,19 @@ This implementation focuses on correct integration (JNI, OpenCV, OpenGL ES) and 
 - `feat(web): add TypeScript viewer and sample processed image`
 - `docs: add screenshots and demo instructions`
 
+### Save / Demo artifacts
+- I included a small helper `SaveHelper.kt` that saves the processed RGBA frame to PNG at:
+  `app/src/main/java/com/princesingh/flam/SaveHelper.kt`
+- Saved sample images and demo GIF are in `/docs/screenshots/`:
+  - `android_preview.png`
+  - `android_processed.png`
+  - `demo.gif`
+
+### Build notes & how I tested
+- See `BUILD_NOTES.md` for exact NDK and OpenCV guidance.
+- See `how_i_tested.md` for detailed steps I used to capture screenshots and demo GIF.
+
+
 ---
 
 ## Contact
