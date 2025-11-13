@@ -1,0 +1,12 @@
+# Android
+/app/.gradle
+/app/build
+/app/local.properties
+/app/.idea
+*.iml
+
+# Node
+/web/node_modules
+
+# system
+.DS_Store
