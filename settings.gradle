@@ -1,0 +1,2 @@
+rootProject.name = "flam-assignment-prince-singh"
+include ':app'
