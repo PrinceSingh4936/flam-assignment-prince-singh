@@ -79,7 +79,7 @@ This implementation focuses on correct integration (JNI, OpenCV, OpenGL ES) and 
 - `feat(gl): add GLSurfaceView renderer and texture update`
 - `feat(web): add TypeScript viewer and sample processed image`
 - `docs: add screenshots and demo instructions`
-
+---
 ### Save / Demo artifacts
 - I included a small helper `SaveHelper.kt` that saves the processed RGBA frame to PNG at:
   `app/src/main/java/com/princesingh/flam/SaveHelper.kt`
