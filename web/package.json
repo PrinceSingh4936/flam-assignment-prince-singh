@@ -1,0 +1,13 @@
+{
+  "name": "flam-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "lite-server",
+    "build": "echo 'build not required for demo'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
